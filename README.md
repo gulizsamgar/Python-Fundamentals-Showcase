@@ -5,11 +5,9 @@
 
 **Hedef: Bu çalışma, Python programlama diline yeni başlayanlar veya temel python  yetkinliklerini pekiştirmek isteyenler için hazırlanmıştır.**
 
-### 📝 Açıklama: ###
-Bu proje, Python'un temel konularını kapsayan, mantıksal ve algoritmik düşünme becerisini geliştirmeye yönelik **sekiz** mini görevden oluşmaktadır.
+**Açıklama: Bu proje, Python'un temel konularını kapsayan, mantıksal ve algoritmik düşünme becerisini geliştirmeye yönelik **sekiz** mini görevden oluşmaktadır.
 Görevler; veri tipleri, liste işlemleri, sözlük kullanımı, döngüler, fonksiyon yazımı gibi Python dünyasının temel yapı taşlarını kapsamaktadır. 
-
-Kodlar **PEP 8 standartlarına uygun** ve açıklamalı şekilde hazırlanmıştır.
+Kodlar **PEP 8 standartlarına uygun** ve açıklamalı şekilde hazırlanmıştır.**
 
 ## İçerik
 
