@@ -21,6 +21,6 @@ Kodlar **PEP 8 standartlarına uygun** ve açıklamalı şekilde hazırlanmışt
 Kodları çalıştırmak için Python 3.x yüklü bir geliştirme ortamında `.py` dosyasını çalıştırabilirsiniz.
 
 ## Detaylı Açıklamalar
-Her görevin detaylı açıklamaları ve çıktıları için proje klasöründeki **pdf dökümanına** göz atabilirsiniz.
+Her görevin detaylı açıklamaları ve çıktıları için proje klasöründeki **[pdf dökümanına](./Python Fundamentals Showcase.pdf)** göz atabilirsiniz.
 
 ---
