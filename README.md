@@ -1,7 +1,7 @@
 # Python Algoritma & Veri Yapıları Pratikleri:
 ## Projeye Genel Bakış
 
-**Code:** ['Python Fundamentals Showcase'](https://github.com/gulizsamgar/Python-Fundamentals-Showcase/blob/3234cdc6c4433f8cec8b454b58bf12632ddde1da/Python%20Fundamentals%20Showcase.py)
+**Code:** [`Python Fundamentals Showcase'](https://github.com/gulizsamgar/Python-Fundamentals-Showcase/blob/3234cdc6c4433f8cec8b454b58bf12632ddde1da/Python%20Fundamentals%20Showcase.py)
 
 ### 🎯 Hedef ###
 Bu çalışma, Python programlama diline yeni başlayanlar veya temel python  yetkinliklerini pekiştirmek isteyenler için hazırlanmıştır. 
