@@ -3,10 +3,10 @@
 
 **Kod:** [`Python Fundamentals Showcase`](https://github.com/gulizsamgar/Python-Fundamentals-Showcase/blob/3234cdc6c4433f8cec8b454b58bf12632ddde1da/Python%20Fundamentals%20Showcase.py)
 
-### 🎯 Hedef ###
+### 🎯 Hedef: ###
 Bu çalışma, Python programlama diline yeni başlayanlar veya temel python  yetkinliklerini pekiştirmek isteyenler için hazırlanmıştır. 
 
-### 📝 Açıklama ###
+### 📝 Açıklama: ###
 Bu proje, Python'un temel konularını kapsayan, mantıksal ve algoritmik düşünme becerisini geliştirmeye yönelik **sekiz** mini görevden oluşmaktadır.
 Görevler; veri tipleri, liste işlemleri, sözlük kullanımı, döngüler, fonksiyon yazımı gibi Python dünyasının temel yapı taşlarını kapsamaktadır. 
 
