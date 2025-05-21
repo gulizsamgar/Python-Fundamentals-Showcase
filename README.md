@@ -1,5 +1,5 @@
-# Projeye Genel Bakış
-## Python Algoritma & Veri Yapıları Pratikleri:
+# Python Algoritma & Veri Yapıları Pratikleri:
+## Projeye Genel Bakış
 
 Bu proje, Python'un temel konularını kapsayan, mantıksal ve algoritmik düşünme becerisini geliştirmeye yönelik **sekiz** mini görevden oluşmaktadır.
 
