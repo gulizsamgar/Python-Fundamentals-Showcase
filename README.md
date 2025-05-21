@@ -9,6 +9,8 @@
 Görevler; veri tipleri, liste işlemleri, sözlük kullanımı, döngüler, fonksiyon yazımı gibi Python dünyasının temel yapı taşlarını kapsamaktadır. 
 Kodlar **PEP 8 standartlarına uygun** ve açıklamalı şekilde hazırlanmıştır.**
 
+** Sonuç: Kodların çıktıları, temel veri işlemlerini doğru biçimde yorumlama yetkinliğini artırmaktadır. Proje aynı zamanda ileri seviye veri analizi çalışmalarına sağlam bir temel niteliğindedir.**
+
 ## İçerik
 
 - GÖREV 1: Veri Yapılarının Tiplerini İnceleme
