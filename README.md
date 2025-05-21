@@ -1,9 +1,15 @@
 # Python Algoritma & Veri Yapıları Pratikleri:
 ## Projeye Genel Bakış
 
-Bu proje, Python'un temel konularını kapsayan, mantıksal ve algoritmik düşünme becerisini geliştirmeye yönelik **sekiz** mini görevden oluşmaktadır.
+**Code:** 
 
-Görevler; veri tipleri, liste işlemleri, sözlük kullanımı, döngüler, fonksiyon yazımı gibi Python dünyasının temel yapı taşlarını kapsamaktadır.  
+### 🎯 Hedef ###
+Bu çalışma, Python programlama diline yeni başlayanlar veya temel python  yetkinliklerini pekiştirmek isteyenler için hazırlanmıştır. 
+
+### 📝 Açıklama ###
+Bu proje, Python'un temel konularını kapsayan, mantıksal ve algoritmik düşünme becerisini geliştirmeye yönelik **sekiz** mini görevden oluşmaktadır.
+Görevler; veri tipleri, liste işlemleri, sözlük kullanımı, döngüler, fonksiyon yazımı gibi Python dünyasının temel yapı taşlarını kapsamaktadır. 
+
 Kodlar **PEP 8 standartlarına uygun** ve açıklamalı şekilde hazırlanmıştır.
 
 ## İçerik
@@ -16,6 +22,18 @@ Kodlar **PEP 8 standartlarına uygun** ve açıklamalı şekilde hazırlanmışt
 - GÖREV 6: Enumarate Kullanımı
 - GÖREV 7: Zip Kullanımı
 - GÖREV 8: Set İşlemleri
+
+## Beceriler
+- Veri türleri analizi
+- String & liste manipülasyonları
+- Koşullu ifadeler & döngü kontrolü
+- Fonksiyon yazımı
+- enumerate, zip, set gibi yerleşik fonksiyonların kullanımı
+- Python'da algoritmik düşünme
+
+## Teknoloji
+- Python (3.x)
+- Python IDE'si PyCharm 
 
 ## Kullanım
 Kodları çalıştırmak için Python 3.x yüklü bir geliştirme ortamında `.py` dosyasını çalıştırabilirsiniz.
