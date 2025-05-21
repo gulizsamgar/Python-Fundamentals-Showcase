@@ -1,4 +1,4 @@
-# Python Fundamentals Showcase 
+# Projeye Genel Bakış
 # Python Algoritma & Veri Yapıları Pratikleri:
 
 Bu proje, Python'un temel konularını kapsayan, mantıksal ve algoritmik düşünme becerisini geliştirmeye yönelik **sekiz** mini görevden oluşmaktadır.
